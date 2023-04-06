@@ -6,4 +6,4 @@
 
 ### Contacts
 
-- [Email](mailto:d274lee@uwaterloo.ca) / [Website](https://danielbl.com/) / [LinkedIn](https://www.linkedin.com/in/danielbl01/)
+- [Website](https://danielbl.com/) / [LinkedIn](https://www.linkedin.com/in/danielbl01/)
